@@ -1,4 +1,4 @@
-# COVID CASE PREDICTIONG MODEL
+# COVID CASE PREDICTION MODEL
 
 ![Spyder](https://img.shields.io/badge/Spyder-838485?style=for-the-badge&logo=spyder%20ide&logoColor=maroon)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
